@@ -11,8 +11,8 @@ My expertise lie in collaborating with cross-functional teams to identify key pe
 
 I specialize in:
 
-* Programming Languages: Python, SQL 
-* Tools:  Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, Power BI, Microsoft Excel
+* **Programming Languages:** Python, SQL 
+* **Tools:**  Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, Power BI, Microsoft Excel
 
 
 ## WORK EXPERIENCE 
