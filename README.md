@@ -13,6 +13,8 @@ I specialize in:
 
 * **Programming Languages:** Python, SQL 
 * **Tools:**  Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, Power BI, Microsoft Excel
+* **Other Skills:** SEO, Marketing, Google Analytics.
+ 
 
 
 ## WORK EXPERIENCE 
