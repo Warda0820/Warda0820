@@ -32,7 +32,7 @@ Role:
 performance, and market trends. 
 * Assessed sales performance and identified areas for enhancement.
 
-**Marketing Analyst | Ohr lighting (May 2022 - Nov 2022)**    
+**Marketing Analyst | Upwork (May 2022 - Nov 2022)**    
 
 Role:
 * Assisted in the development and execution of successful marketing campaigns.
