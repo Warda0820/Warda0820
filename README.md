@@ -32,13 +32,12 @@ Role:
 performance, and market trends. 
 * Assessed sales performance and identified areas for enhancement.
 
-**Marketing Analyst | Upwork (May 2022 - Nov 2022)**    
+**Marketing Analyst | Upwork (May 2022 - Oct 2022)**    
 
 Role:
-* Assisted in the development and execution of successful marketing campaigns.
-*	Conducted market research to gain insight into customer behavior and preferences.
+* Conducted market research to gain insight into customer behavior and preferences.
 *	Managed and enhanced online presence that effectively increased the number of followers.
-*	Boosted website traffic by 20% and conversion rates by 15% by implementing a comprehensive digital marketing strategy that included SEO and social media content creation and marketing campaigns.
+*	Improved website traffic and conversion rates through comprehensive digital marketing strategies including content creation and social media marketing campaigns.
 
 
 ## PROJECTS 
