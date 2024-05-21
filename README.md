@@ -32,7 +32,7 @@ Role:
 performance, and market trends. 
 * Assessed sales performance and identified areas for enhancement.
 
-**Marketing Analyst | Upwork (May 2022 - Oct 2022)**    
+**Marketing Analyst and Social Media Manager | Upwork (May 2022 - Oct 2022)**    
 
 Role:
 * Conducted market research to gain insight into customer behavior and preferences.
