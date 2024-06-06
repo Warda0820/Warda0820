@@ -1,4 +1,4 @@
-<img align="right" alt="coding_by_warda" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"/>
+<img align="center" alt="coding_by_warda" width="200" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"/>
 
 ## About Me
 
