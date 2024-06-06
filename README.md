@@ -1,16 +1,17 @@
 <div id="header" align="center">
-   <img align="center" alt="coding_by_warda" width="200" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"/>
-</div 
-   
-<h1 align="center">
-  Hi there
-</h1>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/wardahrashid/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+<h1 align="center">
+  Hi there
+</h1>
+
 
 ## About Me
 
