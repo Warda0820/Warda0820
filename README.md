@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img align="right" alt="coding_by_jawad" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"/>
+  <img align="center" alt="coding_by_jawad" width="200" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"/>
 
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/wardahrashid/">
