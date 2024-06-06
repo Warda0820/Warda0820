@@ -1,9 +1,8 @@
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+   <img src="https://www.google.com/search?sca_esv=7a948dcc7f52f97d&sca_upv=1&authuser=1&sxsrf=ADLYWIJktz_Txr0KeqrNqoQy0pENlwN-og:1717691649816&q=a+girl+coding+from+home+gif&uds=ADvngMjpACwrBxIYfJaiOcPqMFVb0J5hHIRg33fUgAr2qNA-5Hh_FTqwKyO4VLfd6wpPVAM6M-N29x8sN2dlhwUulPdvHK8rf9l83JOB-gqChwxzIhvAyJadKnbynTb0t-EvA5qpywAa6f8qTzTRVBbTJasoWKH-kc8ERWpITdbWOoPvoGi-KuArOZp34EpjT5GZijpR0jjtECjnD3hfX0lrHaj-zhRx_3sVv7bUfOlCZLyta0BRTu_SbFEjhCKixf-YpNNp-fVvhbGr0_euPveeXEK_QrT0JlqjwVfGsYLj8lGrh0g1gHM&udm=2&prmd=ivsnbz&sa=X&ved=2ahUKEwiTvvuEtMeGAxW9wAIHHWNDOE0QtKgLegQIERAB&biw=1396&bih=639&dpr=1.38#vhid=lahMOKRfUGYsqM&vssid=mosaic" width="100"/>
 </div>
 <h1 align="center">
   Coding From Home
-</h1>
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/wardahrashid/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
