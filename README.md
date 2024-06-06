@@ -1,17 +1,3 @@
-<div id="header" align="center">
-  <img align="center" alt="coding_by_jawad" width="200" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"/>
-
-
-<div id="badges", align="center">
-  <a href="https://www.linkedin.com/in/wardahrashid/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-<h1 align="center">
-  Hi there
-
-
 ## About Me
 
 Hi, I'm Warda Rashid, a passionate Data Analyst with a BSc. (Hons) in Business Accounting and Finance from Government College University Lahore , specialized in leveraging data analytics and visualization to drive actionable insights and data-driven decision-making.
