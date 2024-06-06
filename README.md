@@ -1,6 +1,5 @@
 <div id="header" align="center">
-   <img align="right" alt="coding_by_jawad" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaffarch&label=Profile%20views&color=0e75b6&style=flat" alt="jaffarch" /> </p>
+   <img align="center" alt="coding_by_warda" width="200" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"/>
 </div>
 <h1 align="center">
   Coding From Home
