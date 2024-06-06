@@ -2,7 +2,9 @@
    <img align="center" alt="coding_by_warda" width="200" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"/>
 </div 
 <h1 align="center">
-  Coding From Home
+  Hi there
+</h1>
+
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/wardahrashid/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
