@@ -1,3 +1,5 @@
+<img align="right" alt="coding_by_warda" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"/>
+
 ## About Me
 
 Hi, I'm Warda Rashid, a passionate Data Analyst with a BSc. (Hons) in Business Accounting and Finance from Government College University Lahore , specialized in leveraging data analytics and visualization to drive actionable insights and data-driven decision-making.
