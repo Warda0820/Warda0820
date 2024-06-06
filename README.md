@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img align="center" alt="coding_by_jawad" width="200" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"/>
 
+
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/wardahrashid/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,7 +10,6 @@
 
 <h1 align="center">
   Hi there
-</h1>
 
 
 ## About Me
