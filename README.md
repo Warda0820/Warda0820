@@ -12,7 +12,7 @@ I specialize in:
 
 * **Programming Languages:** Python, SQL 
 * **Tools:**  Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, Power BI, Microsoft Excel
-* **Other Skills:** SEO, Marketing, Google Analytics.
+* **Other Skills:** Inventory management, Invoice generation, Financial analysis, Marketing
  
 
 
@@ -31,12 +31,13 @@ Role:
 performance, and market trends. 
 * Assessed sales performance and identified areas for enhancement.
 
-**Marketing Analyst and Social Media Manager | Upwork (May 2022 - Oct 2022)**    
+**Marketing and Financial Data Analyst | Upwork (May 2022 - Oct 2022)**    
 
 Role:
-* Conducted market research to gain insight into customer behavior and preferences.
+*	Conducted market research to gain insight into customer behavior and preferences.
 *	Managed and enhanced online presence that effectively increased the number of followers.
-*	Improved website traffic and conversion rates through comprehensive digital marketing strategies including content creation and social media marketing campaigns.
+*	Developed financial models that accurately forecasted business performance, leading to a 10% reduction in costs through optimized budget allocations.
+*	Analyzed quarterly financial results and presented findings to senior management, influencing strategic decisions that increased revenue by 15%.
 
 
 ## PROJECTS 
