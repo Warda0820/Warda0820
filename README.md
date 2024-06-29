@@ -13,56 +13,7 @@ I specialize in:
 * **Programming Languages:** Python, SQL 
 * **Tools:**  Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, Power BI, Microsoft Excel
 * **Other Skills:** Inventory management, Invoice generation, Financial analysis, Marketing
- 
 
-
-## WORK EXPERIENCE 
-
-**Data Science and Machine Learning Trainee | Knowledge Streams (Nov 2023 – Jan 2024)**
-
-Role:
-* Acquired hands-on experience by practically implementing and exploring various tools in data science 
-and machine learning.
-
-**Data Analytics consulting virtual internship | KPMG (Jul 2023 – Aug 2023)**
-
-Role: 
-* Applied Tableau visualization and problem-solving skills for data analysis, focusing on customer feedback, sales 
-performance, and market trends. 
-* Assessed sales performance and identified areas for enhancement.
-
-**Marketing and Financial Data Analyst | Upwork (May 2022 - Oct 2022)**    
-
-Role:
-*	Conducted market research to gain insight into customer behavior and preferences.
-*	Managed and enhanced online presence that effectively increased the number of followers.
-*	Developed financial models that accurately forecasted business performance, leading to a 10% reduction in costs through optimized budget allocations.
-*	Analyzed quarterly financial results and presented findings to senior management, influencing strategic decisions that increased revenue by 15%.
-
-
-## PROJECTS 
-
-**[HR Analytics Dashboard](https://github.com/Warda0820/HR-Analytics-Dashboard)**
-* Developed a comprehensive HR analytics dashboard in Power BI that provides insightful visualizations 
-for strategic decision-making.
-
-**[Cab fare prediction](https://github.com/Warda0820/NewYork-Cab-fare-prediction)**
-* Conducted data preprocessing, feature engineering and Implemented different machine learning 
-algorithms to accurately predict the cab fare.
-* Achieved 80% accuracy with the Random Forest Algorithm.
-
-**[Breast Cancer trends in Females](https://github.com/Warda0820/Exploring-Breast-Cancer-Trends-in-Females)**
-*	Analyzed Different regions and age groups using Python to understand breast cancer patterns.
-*	Investigated factors that increased the risk of breast cancer, along with identifying where it caused the most deaths.
-
-**[Product recommendation system](https://github.com/Warda0820/KNN-Product-recommendation-system-2023)**
-* Implemented the model using Python and K-Nearest Neighbors (KNN) algorithm to enhance user 
-engagement and satisfaction.
-
-## Courses and Certifications
-* IBM professional Data analytics from Coursera. 
-* IBM Data Science Professional Course from Coursera. 
-* The complete Digital Marketing Course – 12 courses in 1 from Udemy.
 
 ## EDUCATION
 Government College University, Lahore **|** BSc (Hons.) Business Accounting & Finance **|** Completion Year: 2021
