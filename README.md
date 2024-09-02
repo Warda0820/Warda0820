@@ -16,8 +16,8 @@ I specialize in:
 
 
 ## EDUCATION
-CFA Level 1 Candidate | CFA Institute 
-Government College University, Lahore **|** BSc (Hons.) Business Accounting & Finance **|** Completion Year: 2021
+* CFA Level 1 Candidate | CFA Institute 
+* Government College University, Lahore **|** BSc (Hons.) Business Accounting & Finance **|** Completion Year: 2021
 
 ## Connect with Me
  - Linkedin: [warda-rashid](https://www.linkedin.com/in/wardahrashid/)
