@@ -12,7 +12,7 @@ I specialize in:
 
 * **Data Analytics** using SQL, Python (Pandas, Matplotlib, Seaborn, Scikit-learn, NumPy), and Advance Microsoft Excel.
 * **Data Visualization** through Tableau and Microsoft Power BI.
-* **Other Skills:** Inventory management, Financial modeling, Market research and Business analysis. 
+* **Other Skills:** Financial modeling, Forecasting, Market research and Business analysis. 
 
 
 ## EDUCATION
