@@ -16,7 +16,7 @@ I specialize in:
 
 
 ## EDUCATION
-* Government College University, Lahore **|** BSc (Hons.) Business Accounting & Finance **|** Completion Year: 2021
+* Government College University, Lahore **|** BSc (Hons.) Business Accounting & Finance
 
 ## Connect with Me
  - Linkedin: [warda-rashid](https://www.linkedin.com/in/wardahrashid/)
