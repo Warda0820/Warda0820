@@ -19,4 +19,4 @@ I specialize in:
 * Government College University, Lahore **|** BSc (Hons.) Business Accounting & Finance
 
 ## Connect with Me
- - Email: wardaaa.rashid@gmail.com
+ - Email: wardarashid208@gmail.com
