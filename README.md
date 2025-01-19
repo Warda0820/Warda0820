@@ -16,6 +16,7 @@ I specialize in:
 
 
 ## EDUCATION
+* ACCA
 * Government College University, Lahore **|** BSc (Hons.) Business Accounting & Finance
 
 ## Connect with Me
