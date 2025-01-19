@@ -14,7 +14,7 @@ I specialize in:
 
 * **Data Analytics** using SQL, Python (Pandas, Matplotlib, Seaborn, Scikit-learn, NumPy), and Advance Microsoft Excel.
 * **Data Visualization** through Tableau and Microsoft Power BI.
-* **Other Skills:** : Financial reporting and Analysis, Budgeting and Forecasting, Market research, Accounts payable/ receivable, Business analysis, QuickBooks, Payroll processing, Account reconciliation. 
+* **Other Skills:** : Financial reporting and Analysis, Budgeting and Forecasting, Market research, Accounts payable/ receivable, Business analysis, QuickBooks, Payroll processing, Account reconciliation, Oracle ERP.
 
 
 ## EDUCATION
